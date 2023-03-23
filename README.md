@@ -1,6 +1,6 @@
-# blinc-emanager
+# Hello Intern Friends at BLINC, this will serve as our main repository!
 
-This template should help get you started developing with Vue 3 in Vite.
+Using Vue 3 and Vite, this is our front end.
 
 ## Recommended IDE Setup
 
